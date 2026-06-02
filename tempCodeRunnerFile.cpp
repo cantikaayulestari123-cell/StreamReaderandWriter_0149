@@ -1,0 +1,1 @@
+kondisi jika file tidak ada
