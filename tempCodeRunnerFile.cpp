@@ -1,1 +1,1 @@
-kondisi jika file tidak ada
+kondisi jika terjadi error didalam try
