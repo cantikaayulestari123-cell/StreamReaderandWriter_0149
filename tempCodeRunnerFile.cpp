@@ -1,1 +1,1 @@
-kondisi jika file tidak ada
+kondisi jika throw bertipe data selain integer
